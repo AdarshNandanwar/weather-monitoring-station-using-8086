@@ -1,4 +1,4 @@
-# Weather Monitoring System using Intel 8086 Microprocessor
+# Weather Monitoring Station using Intel 8086 Microprocessor
 
 This system monitors weather parameters such as:
   - Air Temperature
